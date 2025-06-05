@@ -1,4 +1,4 @@
-# 📱 My App Project
+# 📱 Real_time chat-App Project
 
 A basic web based application designed for real-tie chat . Built using [ HTML, CSS, Node.js]
 
@@ -32,4 +32,4 @@ A basic web based application designed for real-tie chat . Built using [ HTML, C
 npm install
 
 # Start the app
-npm start
+npm start or npm run dev
